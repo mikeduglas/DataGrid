@@ -1,4 +1,4 @@
-!- DataGrid ckasses.
+!- DataGrid classes.
 !- mikeduglas@yandex.ru 2021
 
   MEMBER
